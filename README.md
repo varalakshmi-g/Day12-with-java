@@ -24,7 +24,7 @@ Here is the detailed description of getting output.
 
 Let's go...
 
-1.Array "arr" is declared and initialized with values {1, 2, 3, 4,}
+1. Array "arr" is declared and initialized with values {1, 2, 3, 4,}
 
 2. printPairs method wtakes an integer array arr as its parameter, inside this method, length of the array "arr" will be stored in the variable 'n'.
 
